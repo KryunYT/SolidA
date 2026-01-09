@@ -178,8 +178,6 @@ solid-tools/
 
 ## 👤 Автор
 
-**Solid Tools Team**
-
 - Telegram: [@KryunZXC]([https://t.me/KryunTech])
 
 
