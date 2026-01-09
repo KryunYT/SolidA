@@ -157,7 +157,6 @@ solid-tools/
 ├── SolidA.py          # Главный файл программы
 ├── README.md          # Документация
 ├── requirements.txt   # Зависимости
-├── .gitignore        # Игнорируемые файлы
 ├── LICENSE           # Лицензия
 └── tg_config.txt     # Конфигурация Telegram (создается автоматически)
 ```
