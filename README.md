@@ -155,6 +155,7 @@ python SolidA.py
 ```
 solid-tools/
 ├── SolidA.py          # Главный файл программы
+├── SolidA.py          # Исполняемый файл exe
 ├── README.md          # Документация
 ├── requirements.txt   # Зависимости
 ├── LICENSE           # Лицензия
